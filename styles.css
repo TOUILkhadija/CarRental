@@ -472,7 +472,7 @@ nav {
   line-height: 1.5rem;
 }
 .client_container {
-  padding-block: 1rem;
+  padding-bottom: 1rem;
 }
 
 .client_container .section_description {
@@ -481,8 +481,8 @@ nav {
 }
 
 .swiper {
-  padding-block: 4rem;
-  width: 100%;
+  padding-block: 4rem !important;
+  width: 100% !important;
 }
 
 .swiper-slide {
